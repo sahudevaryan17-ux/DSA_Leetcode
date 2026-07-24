@@ -15,6 +15,7 @@ In This repo i will post my recently solved leetcode problems majorly in c++.
 | [0704-binary-search](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ In This repo i will post my recently solved leetcode problems majorly in c++.
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +44,7 @@ In This repo i will post my recently solved leetcode problems majorly in c++.
 | [0035-search-insert-position](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
