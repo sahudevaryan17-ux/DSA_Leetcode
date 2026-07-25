@@ -11,6 +11,7 @@ In This repo i will post my recently solved leetcode problems majorly in c++.
 | [0033-search-in-rotated-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0704-binary-search) |
@@ -44,6 +45,7 @@ In This repo i will post my recently solved leetcode problems majorly in c++.
 | [0033-search-in-rotated-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
