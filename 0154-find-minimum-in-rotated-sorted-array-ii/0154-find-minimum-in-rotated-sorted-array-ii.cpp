@@ -3,21 +3,32 @@ public:
     int findMin(vector<int>& nums) {
         int start = 0;
         int end = nums.size() - 1;
+        int ans = INT_MAX;
 
-        while (start < end) {
+        while (start <= end) {
+
             int mid = start + (end - start) / 2;
 
-            if (nums[mid] > nums[end]) {
+            // Duplicate ambiguity
+            if (nums[start] == nums[mid] && nums[mid] == nums[end]) {
+                ans = min(ans, nums[start]);
+                start++;
+                end--;
+            }
+
+            // Left half sorted
+            else if (nums[start] <= nums[mid]) {
+                ans = min(ans, nums[start]);
                 start = mid + 1;
             }
-            else if (nums[mid] < nums[end]) {
-                end = mid;
-            }
+
+            // Right half sorted
             else {
-                end--;   // duplicates
+                ans = min(ans, nums[mid]);
+                end = mid - 1;
             }
         }
 
-        return nums[start];
+        return ans;
     }
 };
