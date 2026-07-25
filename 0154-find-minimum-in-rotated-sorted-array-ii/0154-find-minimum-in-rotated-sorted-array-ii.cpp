@@ -1,21 +1,23 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
+        int start = 0;
+        int end = nums.size() - 1;
 
-        unordered_map<int, int> mp;
+        while (start < end) {
+            int mid = start + (end - start) / 2;
 
-        // frequency store karo
-        for (int x : nums) {
-            mp[x]++;
+            if (nums[mid] > nums[end]) {
+                start = mid + 1;
+            }
+            else if (nums[mid] < nums[end]) {
+                end = mid;
+            }
+            else {
+                end--;   // duplicates
+            }
         }
 
-        int mini = INT_MAX;
-
-        // hashmap ki keys me minimum dhundo
-        for (auto it : mp) {
-            mini = min(mini, it.first);
-        }
-
-        return mini;
+        return nums[start];
     }
 };
