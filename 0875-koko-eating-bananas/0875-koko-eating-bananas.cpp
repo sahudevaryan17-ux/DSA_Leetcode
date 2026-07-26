@@ -12,7 +12,9 @@ public:
             long long time = 0;
 
             for (int i = 0; i < piles.size(); i++) {
-                time += std::ceil((double)piles[i] / mid);
+              time += (piles[i] + mid - 1) / mid;
+                 if (time > h)
+                    break;
             }
 
             if (time <= h) {
