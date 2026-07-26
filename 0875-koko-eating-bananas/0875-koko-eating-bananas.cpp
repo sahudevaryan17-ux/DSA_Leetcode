@@ -10,8 +10,13 @@ public:
             int mid = start + (end - start) / 2;
             long long time = 0;
 
-            for (int pile : piles) {
-                time += (pile + mid - 1) / mid;
+            for (int i : piles) {
+
+                time += i / mid;
+
+                if (i % mid != 0) {
+                    time++;
+                }
 
                 if (time > h)
                     break;
