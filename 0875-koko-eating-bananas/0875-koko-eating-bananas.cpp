@@ -4,28 +4,27 @@ public:
 
         int start = 1;
         int end = *max_element(piles.begin(), piles.end());
-        int ans = end;
 
-        while (start <= end) {
+        while (start < end) {
 
-            int mid = (start + end) / 2;
+            int mid = start + (end - start) / 2;
             long long time = 0;
 
-            for (int i = 0; i < piles.size(); i++) {
-              time += (piles[i] + mid - 1) / mid;
-                 if (time > h)
+            for (int pile : piles) {
+                time += (pile + mid - 1) / mid;
+
+                if (time > h)
                     break;
             }
 
             if (time <= h) {
-                ans = mid;
-                end = mid - 1;
+                end = mid;
             }
             else {
                 start = mid + 1;
             }
         }
 
-        return ans;
+        return start;
     }
 };
