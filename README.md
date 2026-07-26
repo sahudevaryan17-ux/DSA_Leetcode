@@ -17,6 +17,7 @@ In This repo i will post my recently solved leetcode problems majorly in c++.
 | [0540-single-element-in-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -51,6 +52,7 @@ In This repo i will post my recently solved leetcode problems majorly in c++.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
