@@ -7,14 +7,14 @@ public:
 
         while (start < end) {
 
-            int mid = start + (end - start) / 2;
+            int speed = start + (end - start) / 2;
             long long time = 0;
 
-            for (int i : piles) {
+            for (int kela : piles) {
 
-                time += i / mid;
+                time += kela / speed;
 
-                if (i % mid != 0) {
+                if (kela % speed != 0) {
                     time++;
                 }
 
@@ -23,10 +23,10 @@ public:
             }
 
             if (time <= h) {
-                end = mid;
+                end = speed;
             }
             else {
-                start = mid + 1;
+                start = speed + 1;
             }
         }
 
