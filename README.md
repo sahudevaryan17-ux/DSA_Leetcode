@@ -24,6 +24,7 @@ In This repo i will post my recently solved leetcode problems majorly in c++.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0011-container-with-most-water) |
+| [0344-reverse-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -60,4 +61,8 @@ In This repo i will post my recently solved leetcode problems majorly in c++.
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
