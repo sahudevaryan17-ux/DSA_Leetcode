@@ -1,5 +1,5 @@
 # DSA_Leetcode
-In This repo i will post my recently solved leetcode problems majorly in c++. 
+Welcome to my LeetCode Solutions Repository! Here, I share my recently solved LeetCode problems, primarily implemented in C++. The repository is updated regularly as I practice Data Structures and Algorithms.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
