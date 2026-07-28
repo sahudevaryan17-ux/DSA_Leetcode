@@ -89,4 +89,9 @@ In This repo i will post my recently solved leetcode problems majorly in c++.
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3945-digit-frequency-score](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/3945-digit-frequency-score) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
