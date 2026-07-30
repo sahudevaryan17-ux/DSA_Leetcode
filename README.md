@@ -9,6 +9,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0004-median-of-two-sorted-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0035-search-insert-position) |
@@ -32,6 +33,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -50,6 +52,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
