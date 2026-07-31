@@ -27,6 +27,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0875-koko-eating-bananas](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -102,6 +103,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | ------- |
 | [0066-plus-one](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0066-plus-one) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3945-digit-frequency-score](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/3945-digit-frequency-score) |
 ## Geometry
 |  |
