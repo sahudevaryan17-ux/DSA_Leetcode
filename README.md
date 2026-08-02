@@ -25,6 +25,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0704-binary-search](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -102,6 +103,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2427-number-of-common-factors](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2427-number-of-common-factors) |
@@ -118,4 +120,12 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2427-number-of-common-factors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
