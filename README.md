@@ -14,6 +14,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -128,4 +129,12 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
