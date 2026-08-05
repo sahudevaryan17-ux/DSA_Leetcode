@@ -13,6 +13,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0033-search-in-rotated-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -138,6 +139,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
