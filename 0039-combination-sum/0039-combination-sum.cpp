@@ -1,43 +1,28 @@
 class Solution {
 public:
-
-    void fun(int idx, vector<int>& candidates,
-             vector<int>& temp,
-             int target,
-             vector<vector<int>>& ans) {
-
-        // Base Case 1: Target achieved
-       if(target == 0){
-        ans.push_back(temp);
-        return;
-       }
-
-        // Base Case 2: Out of bounds or target becomes negative
-        if(idx == candidates.size() || target < 0){
+    void fun(int idx,int target,vector<int>& cand,vector<int>& temp,vector<vector<int>>& ans){
+        //base case
+        if(target == 0){
+            ans.push_back(temp);
             return;
         }
-
-        // ---------------- TAKE ----------------
-        // Include current element
-        temp.push_back(candidates[idx]);
-
-        // Stay at same index because we can reuse this element
-        fun(idx,candidates,temp,target - candidates[idx],ans);
-        // Backtrack
+        //2nd base case: out of boundry and niggative
+        if(idx == cand.size() || target<0){
+            return;
+        }
+        //len-den karo
+        temp.push_back(cand[idx]);
+        //bar bar ye elemnt aaye jabtak target 0 na ho jaye :) tabhi idx only
+        fun(idx,target-cand[idx],cand,temp,ans);
+        //backtrack: ghar more pardesiya xD
         temp.pop_back();
-
-        // ---------------- DON'T TAKE ----------------
-        // Move to next index
-        fun(idx + 1, candidates, temp, target, ans);
+        //vapas bulava aaya hai , aage ghar ko jana hai :(
+        fun(idx+1,target,cand,temp,ans);
     }
-
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-
+    vector<vector<int>> combinationSum(vector<int>& cand, int target) {
         vector<vector<int>> ans;
         vector<int> temp;
-
-        fun(0, candidates, temp, target, ans);
-
+        fun(0,target,cand,temp,ans);
         return ans;
     }
-};
+};//bas isi tarah se karna hai ohhhhhhh :)
