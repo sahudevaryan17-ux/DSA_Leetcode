@@ -42,6 +42,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0011-container-with-most-water](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0283-move-zeroes) |
@@ -98,6 +99,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0344-reverse-string) |
 ## Hash Table
