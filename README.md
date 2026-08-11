@@ -31,6 +31,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0724-find-pivot-index](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -111,6 +112,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0904-fruit-into-baskets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3945-digit-frequency-score](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -164,4 +166,5 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
