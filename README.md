@@ -38,6 +38,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3945-digit-frequency-score](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -167,4 +169,5 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
