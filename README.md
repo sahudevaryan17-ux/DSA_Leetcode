@@ -24,6 +24,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0209-minimum-size-subarray-sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -69,6 +70,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | ------- |
 | [0015-3sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -84,6 +86,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -115,6 +118,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0904-fruit-into-baskets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -125,6 +129,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -164,6 +169,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 ## Bracket Sequences
 |  |
 | ------- |
