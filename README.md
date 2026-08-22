@@ -129,6 +129,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0263-ugly-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
