@@ -131,6 +131,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0066-plus-one](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -156,6 +157,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
@@ -183,4 +185,20 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0219-contains-duplicate-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
