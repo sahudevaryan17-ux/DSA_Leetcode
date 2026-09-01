@@ -132,6 +132,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0292-nim-game) |
@@ -159,6 +160,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
@@ -215,4 +217,8 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0412-fizz-buzz) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
