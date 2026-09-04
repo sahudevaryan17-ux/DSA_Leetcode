@@ -137,6 +137,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0504-base-7) |
 | [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1025-divisor-game) |
