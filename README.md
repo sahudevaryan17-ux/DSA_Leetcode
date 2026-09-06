@@ -74,6 +74,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0015-3sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -115,6 +116,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0022-generate-parentheses](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0504-base-7) |
@@ -124,6 +126,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
