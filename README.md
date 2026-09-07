@@ -228,4 +228,12 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
