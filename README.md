@@ -57,6 +57,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0344-reverse-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -232,6 +233,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
