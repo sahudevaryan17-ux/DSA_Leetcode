@@ -16,6 +16,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0039-combination-sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
@@ -109,6 +110,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -182,6 +184,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1025-divisor-game) |
