@@ -159,6 +159,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2427-number-of-common-factors](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3945-digit-frequency-score](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/3945-digit-frequency-score) |
 ## Geometry
 |  |
