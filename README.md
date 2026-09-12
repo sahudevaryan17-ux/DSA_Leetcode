@@ -40,6 +40,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0941-valid-mountain-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -190,6 +191,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0152-maximum-product-subarray](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1025-divisor-game) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Game Theory
 |  |
 | ------- |
