@@ -44,6 +44,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -192,6 +193,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1025-divisor-game) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Game Theory
 |  |
 | ------- |
