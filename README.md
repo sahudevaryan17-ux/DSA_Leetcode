@@ -136,6 +136,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0344-reverse-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0504-base-7) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,4 +302,5 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
