@@ -45,6 +45,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [1232-check-if-it-is-a-straight-line](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1672-richest-customer-wealth](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -306,4 +307,8 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
