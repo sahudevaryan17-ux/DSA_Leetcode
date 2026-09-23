@@ -168,6 +168,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0263-ugly-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0292-nim-game) |
+| [0382-linked-list-random-node](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0504-base-7) |
@@ -274,6 +275,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0206-reverse-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -319,4 +321,12 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1672-richest-customer-wealth) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
