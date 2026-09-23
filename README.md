@@ -118,6 +118,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0053-maximum-subarray) |
 ## Counting
 |  |
@@ -270,6 +271,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
@@ -329,4 +331,16 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0382-linked-list-random-node) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
