@@ -71,6 +71,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0876-middle-of-the-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -280,6 +281,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0382-linked-list-random-node](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -319,6 +321,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
