@@ -58,6 +58,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0015-3sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0086-partition-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
@@ -273,6 +274,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0086-partition-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0206-reverse-linked-list) |
