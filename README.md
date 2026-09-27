@@ -35,6 +35,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0540-single-element-in-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0724-find-pivot-index) |
+| [0860-lemonade-change](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -77,6 +78,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Prefix Sum
 |  |
