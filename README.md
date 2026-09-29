@@ -53,6 +53,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -236,6 +237,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0078-subsets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -255,6 +257,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | ------- |
 | [0292-nim-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1025-divisor-game) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Minimax
 |  |
 | ------- |
