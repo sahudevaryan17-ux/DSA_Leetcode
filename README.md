@@ -101,6 +101,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -150,6 +151,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0151-reverse-words-in-a-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0504-base-7) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -168,6 +170,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0389-find-the-difference) |
 | [0904-fruit-into-baskets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -240,6 +243,7 @@ Welcome to my LeetCode Solutions Repository! Here, I share my recently solved Le
 | [0078-subsets](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/0389-find-the-difference) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/sahudevaryan17-ux/DSA_Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Bracket Sequences
 |  |
